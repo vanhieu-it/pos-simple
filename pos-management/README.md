@@ -61,3 +61,8 @@ npx sequelize-cli model:generate --name Inventory --attributes product_id:intege
 ```
   npx sequelize-cli db:migrate
 ```
+...
+## Chạy chương trình
+```
+node app.js
+```
