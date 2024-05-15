@@ -1,0 +1,7 @@
+SUPABASE_URL=https://your-supabase-url.supabase.co
+SUPABASE_KEY=your-supabase-key
+SUPABASE_DB_NAME=your-database-name
+SUPABASE_DB_USER=your-database-user
+SUPABASE_DB_PASSWORD=your-database-password
+SUPABASE_DB_HOST=your-database-host
+SUPABASE_DB_PORT=5432
